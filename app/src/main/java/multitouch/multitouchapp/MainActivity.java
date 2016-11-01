@@ -18,7 +18,6 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
-
 import java.util.UUID;
 import android.provider.MediaStore;
 import android.app.AlertDialog;
